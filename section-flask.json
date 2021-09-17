@@ -1,0 +1,35 @@
+{
+    "Section 1": [
+        "Terminal Cheat Sheet and Setup Links.txt",
+        "terminalsetup.sh"
+    ],
+    "section_all": [
+        "readme.me",
+        ".git"
+    ],
+    "Section 3 - DB": [
+        "flask_tut.db",
+        "model.py",
+        "__pycache__",
+        "schema.py",
+        "demo.py",
+        "seed.py",
+        "templates",
+        "static"
+    ],
+    "Section 3 - Sessions": [
+        "flask_tut.db",
+        "model.py",
+        "__pycache__",
+        "schema.py",
+        "demo.py",
+        "seed.py",
+        "templates",
+        "static"
+    ],
+    "Section 2": [
+        "demo.py",
+        "templates",
+        "static"
+    ]
+}
